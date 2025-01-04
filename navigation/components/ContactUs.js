@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
         marginBottom: 10
     },
     body: {
-        flex: 5,
+        flex: 40,
         width: "100%"
     },
     footer: {
