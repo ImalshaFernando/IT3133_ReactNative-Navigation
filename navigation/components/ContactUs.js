@@ -53,7 +53,7 @@ export default function ContactUs() {
 const styles = StyleSheet.create({
     container: {
         flexDirection: 'column',
-        backgroundColor: '#fff',
+        backgroundColor: 'black',
         justifyContent: 'space-between',
         padding: 10
     },
